@@ -1,0 +1,12 @@
+{
+  "reply_text": "Hey! Here's the group for people in our area: https://t.me/your_group_link",
+  "must_match": [
+    ["looking\\s+for\\s+(an?\\s+)?u?\\s*group"],
+    ["18\\s*[-–]\\s*28"],
+    ["Montana", "Sinoville", "Magaliskruin", "Doorpoort", "Annlin"]
+  ],
+  "chat_allowlist": [],
+  "reply_delay_seconds": [3, 8],
+  "cooldown_per_user_seconds": 3600,
+  "cooldown_per_chat_seconds": 60
+}
